@@ -31,7 +31,7 @@ My project is a user-installable Discord bot that you can use everywhere—DMs, 
 
 ### 🎥 Preview
 
-![Boost Tool Preview](https://media.discordapp.net/attachments/1196423037650747433/1278780784769110046/image.png?ex=66d2b5a9&is=66d16429&hm=f7663908442a5087df2d276eb38a7f0aeb410a71a0e740b98047606eb8925763&=&format=webp&quality=lossless&width=670&height=578)
+![Boost Tool Preview](https://media.discordapp.net/attachments/1196423037650747433/1278780784769110046/image.png?ex=66d752e9&is=66d60169&hm=9c771b4cef1b69416262105abf8f5939521f3130f737cf67f25456a6a72b85ff&=&format=webp&quality=lossless&width=669&height=577)
 
 ---
 
