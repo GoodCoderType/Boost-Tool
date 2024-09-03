@@ -1,6 +1,10 @@
 
 # Boost-Tool
 
+## ⚠️ Disclaimer
+
+Please **do not skid or resell** this project. Use it for your personal purposes only. Respect the effort that went into making this tool freely available. Thank you! i am not allowing you to resell/skid/rebrand if you gonna do that you are choiceing hell for you
+
 My discord id : ```goodgamerback```
 
 Welcome to **Boost-Tool**, an advanced, free-to-use boost tool for Discord. Many other boost tools are being sold for $20-30, but this one is completely free, up-to-date, and packed with features! All I ask in return is your support for my project.
@@ -54,6 +58,4 @@ If you find this boost tool helpful, consider sending a small donation to suppor
 
 ---
 
-## ⚠️ Disclaimer
 
-Please **do not skid or resell** this project. Use it for your personal purposes only. Respect the effort that went into making this tool freely available. Thank you!
