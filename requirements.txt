@@ -1,0 +1,11 @@
+requests
+httpx
+logging
+colorama
+termcolor
+websockets
+licensing==0.43
+requests==2.31.0
+tls-client==1.0.1
+typing_extensions==4.10.0
+

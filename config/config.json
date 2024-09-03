@@ -1,0 +1,16 @@
+{
+    "key":"No need. Its Gift For You In in Return Please Supprot My Project https://discord.gg/raftar | https://raftar.xyz",
+    "proxyless": true, 
+    "captcha_solver": {
+        "solve_captcha": true,
+        "use" : "capsolver",
+        "hcoptcha_api_key": "CAP-E57F719638FC1A093823D29CE6449BF4",
+        "capsolver_api_key" : "CAP-E57F719638FC1A093823D29CE6449BF4",
+        "max_retries" : 5
+    }, 
+    "advance_mode": false,
+    "customisation":{
+        "nick": "Danish Bhai",
+        "bio": "aj danish bhai zinda hoty toh"
+    }
+}
