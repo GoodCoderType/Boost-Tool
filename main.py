@@ -11,7 +11,7 @@ from enum import Enum, IntEnum
 from threading import Thread
 from typing import Dict, List, Optional, Tuple, Union
 import websockets.typing
-from colorama import Back, Fore, Style
+from colorama import Back, Fore, Style,init
 from websockets.exceptions import ConnectionClosedError
 from websockets.sync.client import connect
 import string
@@ -25,6 +25,8 @@ from uuid import uuid4  # gen random guid
 import platform  # check platform
 import subprocess  # needed for mac device
 
+init(autoreset=True)
+# so you wont face broken console
 
 gradient_colors = [Fore.RED, Fore.YELLOW, Fore.GREEN, Fore.CYAN, Fore.BLUE, Fore.MAGENTA, Fore.CYAN]
 
@@ -34,7 +36,7 @@ for i in range(len(gradient_colors) * 2):
 █▀▄ █▀█ █▀░ ░█░ █▀█ █▀▄   █▄█ █▄█ █▄█ ▄█ ░█░   ░█░ █▄█ █▄█ █▄▄
 ''')
         print(Fore.CYAN + Style.BRIGHT + '''             THANKS FOR USING : ) | discord.gg/raftar | discord.gg/govt
-                                                         Please Don't Skid/Rebrand/Resell This Boost Tool Othervise Hell is Ready for You''')
+        Please Don't Skid/Rebrand/Resell This Boost Tool Othervise Hell is Ready for You''')
         time.sleep(0.1)
 
 
