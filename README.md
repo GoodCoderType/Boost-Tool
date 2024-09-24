@@ -16,8 +16,8 @@ My project is a user-installable Discord bot that you can use everywhere—DMs, 
 - **[Join our Discord Server](https://discord.gg/raftar)**
 - **[Visit our Website](https://raftar.xyz)**
 - **[Check out My Shop Server](https://discord.gg/govt)**
-- **[Add the Bot to Your Account](https://discord.com/oauth2/authorize?client_id=1156179312211406879)**
-- **[App Directory Link](https://discord.com/application-directory/1156179312211406879)**
+- **[Add the Bot to Your Account](https://discord.com/oauth2/authorize?client_id=1285597879020556308)**
+- **[App Directory Link](https://discord.com/application-directory/1285597879020556308 )**
 - **[MY AUTOBUY](https://goodgamertype.sellauth.com/)**
 ---
 
