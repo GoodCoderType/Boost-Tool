@@ -1,6 +1,9 @@
 
 # Boost-Tool
 
+Credits https://discord.gg/u8sezD8Y
+They Do Lots Of Leaks.
+
 ## ⚠️ Disclaimer
 
 Please **do not skid or resell** this project. Use it for your personal purposes only. Respect the effort that went into making this tool freely available. Thank you! i am not allowing you to resell/skid/rebrand if you gonna do that you are choiceing hell for you
