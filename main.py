@@ -520,10 +520,7 @@ def getStockk(filename: str):
         else:
             tokens.append(i)
         count += 1
-    if not len(tokens) < 10:
-        ee = input(Fore.RED + "Error: No Tokens Found In Stock Press e To Exit.")
-        if ee == "e":
-            exit()
+
 
     print(Fore.BLUE + f"Succesfully Loaded {count} Tokens")
     return tokens
@@ -538,10 +535,7 @@ def getStock(filename: str):
         else:
             tokens.append(i)
         count += 1
-    if not len(tokens) < 10:
-        ee = input(Fore.RED + "Error: No Tokens Found In Stock Press e To Exit.")
-        if ee == "e":
-            exit()
+
 
     return tokens
 
